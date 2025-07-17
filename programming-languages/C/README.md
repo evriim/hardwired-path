@@ -31,7 +31,7 @@ This repo is organized according to the topics I studied while learning C. Some 
 
 Here are some of the tutorials and courses I used to learn C:
 
-- [Giraffe Academy](https://www.youtube.com/watch?v=igv48oGvlPk&list=PLLAZ4kZ9dFpMlt_8ZAs3ltQNeVQ9WITia)
+- [Giraffe Academy](https://www.youtube.com/watch?v=igv48oGvlPk&list=PLLAZ4kZ9dFpMlt_8ZAs3ltQNeVQ9WITia) - [File](https://github.com/evriim/hardwired-path/blob/main/programming-languages/C/giraffe-academy.c)
 - [C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 - 
 
