@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
-double primeNum(double x){
-    double i;
+int primeNum(int x){
+    int i;
     for(i = 2; i < x; i++){
         if(fmod(x, i) == 0){
             return 0;
