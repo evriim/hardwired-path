@@ -33,7 +33,7 @@ Here are some of the tutorials and courses I used to learn C:
 
 - [Giraffe Academy](https://www.youtube.com/watch?v=igv48oGvlPk&list=PLLAZ4kZ9dFpMlt_8ZAs3ltQNeVQ9WITia)
 - [C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
-- 
+- [Project Euler](https://projecteuler.net/)
 
 ---
 
