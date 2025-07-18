@@ -17,7 +17,7 @@ int main()
     int j;
     double num = 300425737572;
     int max = 0;
-    for (j = 2; j < num; j++){
+    for (j = 2; j*j < num; j++){
         if(primeNum(j)){
                 if(fmod(600851475143, j) == 0){
                     printf("%d \n", j);
