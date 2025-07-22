@@ -45,12 +45,14 @@ Here are the main topics I plan to cover or have already studied:
 
 ---
 
-## 💡 Platforms & Tools
+## 🎥 Resources I Followed
 
-- **Microcontrollers:** STM32 (ARM Cortex-M), ATmega (AVR)
-- **Compilers:** `arm-none-eabi-gcc`, `avr-gcc`
-- **Debugging:** GDB, OpenOCD
-- **Other Tools:** STM32CubeProg, STM32CubeMX (for reference only)
+Here are some of the tutorials and guides I used while working with Arduino:
+
+- [Cosmic Aerospace](https://www.youtube.com/@CosmicAerospace)  
+- 
+- 
+- 
 
 ---
 
