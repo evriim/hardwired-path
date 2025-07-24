@@ -42,7 +42,7 @@ Here are some of the tutorials and guides I used while working with Arduino:
 - [Course developed by Ashish Bansal](https://www.youtube.com/watch?v=zJ-LqeX_fLU&ab_channel=freeCodeCamp.org) 
 - Sensor and module datasheets  
 - Community forums and blog posts
-
+- [Paul McWhorter](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 ---
 
 ## 🛠️ How to Upload & Run
