@@ -1,24 +1,93 @@
-# hardwired-path 🇹🇷🇬🇧
-
-Welcome! 👋  
-This repository is my personal learning roadmap from being a computer engineering student to getting comfortable with embedded systems. Since embedded systems require a combination of software and electronics knowledge, I faced many struggles as a software-oriented person.
-
-Merhaba! 👋  
-Bu depo, bilgisayar mühendisliği öğrencisi olarak gömülü sistemler öğrenme sürecimi ve yol haritamı içeriyor. Yazılım kökenli biri olarak elektronik kısmı öğrenmek oldukça zorlayıcı oldu, bu yüzden bu notları hem kendim hem de aynı zorlukları yaşayanlar için oluşturdum.
-
-🗣️ The content is mixed in Turkish and English.  
-İçerik hem Türkçe hem İngilizce olacak, çünkü öğrendiklerimi iki dilde de not alıyorum ve paylaşıyorum.
+# 🔌 Hardwired Path  
+*A Practical Roadmap for Learning Embedded Systems*
 
 ---
 
-🔍 This repo includes:
-- Basics of electronics explained simply
-- Microcontroller programming (e.g., STM32, Arduino)
-- Common protocols (UART, I2C, SPI)
-- Project-based learning
-- Resources and tips
+## 📖 About This Repository
+**Hardwired Path** is a structured and practical learning roadmap for anyone who wants to dive into **embedded systems development**.  
+It is built from my personal learning journey as a computer engineer, covering both **theory** and **hands-on coding**.  
+
+You will find:
+- Step-by-step roadmap from beginner to advanced
+- Practical code examples in C and C++
+- Arduino, STM32, and bare-metal programming guides
+- Algorithms, data structures, and problem-solving approaches
+- Basic electronics and microcontroller fundamentals
+
+The goal:  
+> To help learners move from *"blinking an LED"* to *"building robust embedded applications"*.
 
 ---
 
-📬 Contributions are welcome, and I hope this helps someone out there like me!
+## 🗺 Roadmap Overview
+The learning path is divided into **main categories**:
+
+1. **Programming Languages**  
+   - [C](programming-languages/C/README.md)  
+   - [C++](programming-languages/C++/README.md)
+
+2. **Algorithms**  
+   - Sorting, searching, data structures
+
+3. **Hardware Platforms**  
+   - [Arduino](embedded-systems/arduino/README.md)  
+   - [STM32](hardware-platforms/stm32/README.md)  
+   - [Bare-Metal Programming](hardware-platforms/bare-metal/README.md)
+
+4. **Basic Electronics**  
+   - Ohm’s Law, resistors, transistors, power supply basics
+
+5. **Microcontroller Fundamentals**  
+   - Architecture, memory, clock systems, peripherals
+
+6. **Projects**  
+   - Complete real-world embedded projects
+
+📌 You can view the **full roadmap** here:  
+[📄 Roadmap](docs/roadmap.md)
+
+---
+
+## 📂 Repository Structure
+```
+
+hardwired-path/
+├── programming-languages/     # C and C++
+├── algorithms/                # Algorithm implementations
+├── hardware-platforms/        # Arduino, STM32, Bare-metal
+├── basic-electronics/         # Electronics fundamentals
+├── microcontroller-fundamentals/
+├── projects/                  # Completed projects
+└── LICENSE
+
+```
+
+---
+
+## 🚀 How to Use This Repo
+1. **Follow the roadmap** → Start from C basics, progress towards hardware-specific programming.
+2. **Read the theory** → Each section contains Markdown guides explaining the concepts.
+3. **Practice the code** → Every topic comes with simple-to-advanced examples.
+4. **Build projects** → Apply your knowledge to real-world use cases.
+
+---
+
+## 📚 Recommended Prerequisites
+Before starting, it’s helpful to have:
+- Basic programming knowledge (any language)
+- Interest in electronics & hardware
+- A microcontroller board (Arduino or STM32) for hands-on practice
+
+---
+
+
+## 📜 License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+> “The best way to learn embedded systems is to get your hands dirty — code it, wire it, debug it.”
+```
+
+---
 
