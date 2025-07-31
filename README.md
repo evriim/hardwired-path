@@ -24,7 +24,7 @@ The learning path is divided into **main categories**:
 
 1. **Programming Languages**  
    - [C](programming-languages/C/README.md)  
-   - [C++](programming-languages/C++/README.md)
+   - [C++](programming-languages/CPP/README.md)
 
 2. **Algorithms**  
    - Sorting, searching, data structures
