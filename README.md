@@ -30,7 +30,7 @@ The learning path is divided into **main categories**:
    - Sorting, searching, data structures
 
 3. **Hardware Platforms**  
-   - [Arduino](embedded-systems/arduino/README.md)  
+   - [Arduino](hardware-platforms/arduino/README.md)  
    - [STM32](hardware-platforms/stm32/README.md)  
    - [Bare-Metal Programming](hardware-platforms/bare-metal/README.md)
 
@@ -42,9 +42,6 @@ The learning path is divided into **main categories**:
 
 6. **Projects**  
    - Complete real-world embedded projects
-
-📌 You can view the **full roadmap** here:  
-[📄 Roadmap](docs/roadmap.md)
 
 ---
 
