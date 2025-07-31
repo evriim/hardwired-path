@@ -1,42 +1,63 @@
-# Learning C Programming 🧠🔧
+# 🖥 C Programming — Hardwired Path
 
-Welcome!  
-This repository is a personal space where I document and share my journey of learning the C programming language. C is a powerful, low-level language that plays a key role in systems programming, embedded systems, operating systems, and more.
-
----
-
-## 📌 Why C?
-
-As a computer engineering student focusing on embedded systems, learning C is a must. It helps me understand how hardware and software interact, and how to write efficient, low-level code that can run directly on microcontrollers or operating systems.
+This section focuses entirely on the **C programming language**, covering:
+1. Step-by-step lessons on C fundamentals
+2. Example codes for each topic
+3. Small-to-large scale projects written in C
 
 ---
 
-## 🧭 Learning Path
-
-This repo is organized according to the topics I studied while learning C. Some examples include:
-
-- 🟢 Basic Syntax & Hello World
-- 🔢 Variables, Data Types & Constants
-- 🔁 Conditionals & Loops
-- 📦 Functions
-- 📚 Arrays, Strings
-- 🎯 Pointers & Memory Management
-- 🧱 Structs, Enums, Typedef
-- 📁 File I/O
-- 🧠 Advanced Topics (Bitwise Operations, Command-line Arguments, etc.)
+## 📖 Purpose
+C is the backbone of **embedded systems programming**.  
+This section is designed to give you:
+- A clear **learning sequence**
+- Practical **example programs**
+- **Projects** to apply your knowledge
 
 ---
 
-## 🎥 Resources I Followed
+## 🗺 Learning Modules
 
-Here are some of the tutorials and courses I used to learn C:
+### 1️⃣ Basics
+- Variables, constants, and data types
+- Operators (arithmetic, logical, bitwise)
+- Conditional statements (`if`, `switch`)
+- Loops (`for`, `while`, `do-while`)
 
-- [Giraffe Academy](https://www.youtube.com/watch?v=igv48oGvlPk&list=PLLAZ4kZ9dFpMlt_8ZAs3ltQNeVQ9WITia)
-- [C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+### 2️⃣ Functions
+- Defining and calling functions
+- Function parameters (by value, by reference)
+- Scope and lifetime of variables
+
+### 3️⃣ Pointers
+- Introduction to pointers
+- Pointer arithmetic
+- Pointers with arrays and strings
+- Function pointers
+
+### 4️⃣ Memory Management
+- Stack vs heap
+- `malloc()`, `calloc()`, `free()`
+- Avoiding memory leaks
+
+### 5️⃣ Data Structures
+- `struct` and `typedef`
+- `enum` usage
+- Linked lists, queues, stacks
+
+### 6️⃣ File I/O *(Optional for Embedded)*
+- Opening, reading, writing files
+- Binary vs text mode
+
+---
+
+## 📚 Recommended Resources
+- [*C Programming Language, 2nd Edition* -Brian W. Kernighan, Dennis M. Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)   
+- [Learn-C.org](https://www.learn-c.org/)  
+- [GeeksforGeeks C Programming](https://www.geeksforgeeks.org/c-programming-language/)
+- [Giraffe Academy](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMlt_8ZAs3ltQNeVQ9WITia)
 - [Project Euler](https://projecteuler.net/)
-
 ---
 
-## 🛠️ How to Compile
-
-To keep everything in a single file, some parts of the code (e.g., main functions or conflicting definitions) are commented out. This file is not meant to be compiled directly as-is. Please uncomment and modify the relevant sections depending on which example or feature you'd like to run.
+> “Learn C deeply — it’s the language that teaches you how computers really work.”
+```
