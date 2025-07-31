@@ -84,7 +84,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 > “The best way to learn embedded systems is to get your hands dirty — code it, wire it, debug it.”
-```
 
 ---
 
