@@ -60,4 +60,3 @@ This section is designed to give you:
 ---
 
 > “Learn C deeply — it’s the language that teaches you how computers really work.”
-```
